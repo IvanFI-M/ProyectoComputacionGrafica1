@@ -1,1 +1,1 @@
-# ProyectoCompuGrafica1
+# ProyectoCompuGrafica
